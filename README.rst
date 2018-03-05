@@ -10,10 +10,10 @@ Dirtools is a little Python package aimed to provide the following features:
 * Track changes in a directory over time (without duplicating it or without having direct access to it).
 
 
-.. image:: https://pypip.in/v/dirtools/badge.png
+.. image:: https://img.shields.io/pypi/v/dirtools.svg
         :target: https://crate.io/packages/dirtools
 
-.. image:: https://pypip.in/d/dirtools/badge.png
+.. image:: https://img.shields.io/pypi/dm/dirtools.svg
         :target: https://crate.io/packages/dirtools
 
 
